@@ -1,4 +1,4 @@
 # hello-world
 Hi Humans!
 
-NeffryC is in the house.
+NeffreyC is in the house.
