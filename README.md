@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+NeffryC is in the house.
